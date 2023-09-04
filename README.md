@@ -37,5 +37,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - slidev 幻灯片
 - motion-canvas
 - code-surfer
+- asciinema 集成
+- 生成 ascii 图像
 
 # license
