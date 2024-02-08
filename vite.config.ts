@@ -14,6 +14,9 @@ export default defineConfig({
           // 'VAlert', // Component name
           // 'Ripple', // Directive name
         ]
+      },
+      styles: {
+        configFile: 'src/settings.sass'
       }
     })
   ],

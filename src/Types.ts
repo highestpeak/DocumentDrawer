@@ -19,3 +19,9 @@ export interface LangConfig {
     rightEditArea_CompontentName: string,
     helpArea_CompontentName?: string,
 }
+
+export interface LangTemplate {
+    templateName: string,
+    templateCode: string,
+    templateImgUrlOrBase64: string,
+}
